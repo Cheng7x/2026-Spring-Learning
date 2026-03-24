@@ -2,6 +2,7 @@
 #include <stack>
 #include <string>
 
+// stack 应用
 void conversion(int N, int base){
 	std::stack<char> result;
 	do{
