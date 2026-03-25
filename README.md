@@ -2,22 +2,24 @@
 
 Record the learning notes.
 
-## School:
+## School
+
 * Mathematics AII
 * Linear Algebra
 * Physics AI
 * Physical Experiment AI
 * Data Structure
 
-## Others:
+## Others
+
 * CS50 for basis, C, Python, SQL, JS ...
 * CS50P for Python
 * CS221 for AI
 * Python Library
-    * Numpy
-    * Pandas
-    * Matplotlib
-    * ...
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * ...
 * C++
   * basis
   * STL

@@ -1,3 +1,5 @@
+# Latex
+
 | LaTeX 语法 | 显示效果 |
 | --- | --- |
 | `\in` | $\in$ |
@@ -75,10 +77,12 @@
 | `\mathbf{w} \leftarrow \mathbf{w} - \eta \nabla L(\mathbf{w})` | $\mathbf{w} \leftarrow \mathbf{w} - \eta \nabla L(\mathbf{w})$ |
 
 * `\left( \frac{a}{b} \right)` | $\left( \frac{a}{b} \right)$ |
-* `\left| x \right|`  $\left| x \right|$ 
+* `\left| x \right|`  $\left| x \right|$
 * `\mathrm{d}x` $\mathrm{d}x$
 $${\Huge \color{red} x^2}$$
 $${\LARGE x^2}$$
 $${x^2}$$
 $\frac{1}{2+8+9+x^2} + 5$
 $\dfrac{1}{2^2+7+6+x^2} + 5$
+
+$$\phi(x) = \left \lceil x \right \rceil$$
