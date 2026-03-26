@@ -364,4 +364,8 @@ FodyWeavers.xsd
 
 .venv/
 venv/
-Artificial_Intelligence/cs221
+Artificial_Intelligence/cs221/
+Data_Structure/hnu_datastructure_docs/
+Data_Structure/hnu_datastructure_ppt/
+Data_Structure/小班讨论课/
+Latex/
