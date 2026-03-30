@@ -362,10 +362,13 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+.vscode/
 .venv/
 venv/
 Artificial_Intelligence/cs221/
 Data_Structure/hnu_datastructure_docs/
 Data_Structure/hnu_datastructure_ppt/
 Data_Structure/小班讨论课/
+Cpp_basic/
 Latex/
+*.exe
